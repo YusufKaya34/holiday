@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:holiday/list.dart';
 import 'package:holiday/map.dart';
 
 void main() {
